@@ -9,3 +9,6 @@ in scala everything is object
 
 and in scala we have val and var
 val is immutable and var is mutable
+
+
+scala is very free to learn
