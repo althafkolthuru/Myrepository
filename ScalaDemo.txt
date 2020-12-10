@@ -1,0 +1,5 @@
+
+
+welcome to scala
+
+scala is functional and progarmming language
