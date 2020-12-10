@@ -12,3 +12,6 @@ val is immutable and var is mutable
 
 
 scala is very free to learn
+
+
+scal supports the spark to develop the code
